@@ -21,8 +21,8 @@ namespace Zadatak5
             //koji će dodijeliti vrijednosti proslijeđenih argumenata naslijeđenim varijablama članicama
             //Definirajte dva objekta Zemlja i Mjesec tipova Planet i Satelit.
 
-            Planet Zemlja = new Planet(24, 8.760);
-            Satelit Mjesec = new Satelit(720, 8.760);
+            Planet Zemlja = new Planet(24, 8760);
+            Satelit Mjesec = new Satelit(720, 8760);
 
         }
 
