@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe.config
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\bin\Debug\Zadatak4.pdb
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\obj\Debug\Zadatak4.exe
+C:\Users\ucenik\Documents\Ispit\Zadatak4\Zadatak4\obj\Debug\Zadatak4.pdb
